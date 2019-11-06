@@ -1,0 +1,8 @@
+.create-form td input, .create-form td textarea,.create-form td select{
+	width: 100%;
+	padding:10px;
+} 
+
+.create-form{
+	border-radius: 5px;
+}
